@@ -8,3 +8,15 @@ https://www.eso.org/observing/etc/bin/gen/form?INS.MODE=swspectr+INS.NAME=SKYCAL
 
 ESO ETC Broadband Magnitude Calculations
 https://www.eso.org/observing/etc/doc/skycalc/helpskycalc.html#mags
+
+ESO ETC Databes Efficiencies and Filters
+https://www.eso.org/observing/etc/bin/gen/form?INS.NAME=CALIBDISP+INS.MODE=MAIN
+
+PyETC readthedocs general guide
+https://pyetc-wst.readthedocs.io/en/latest/installation.html
+
+MPDAF
+https://mpdaf.readthedocs.io/en/latest/index.html
+
+SPEXTRA library used by pyETC:
+https://spextra.readthedocs.io/en/latest/index.html
