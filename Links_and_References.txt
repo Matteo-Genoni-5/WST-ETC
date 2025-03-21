@@ -20,3 +20,6 @@ https://mpdaf.readthedocs.io/en/latest/index.html
 
 SPEXTRA library used by pyETC:
 https://spextra.readthedocs.io/en/latest/index.html
+
+SED Database used by SPEXTRA:
+https://scopesim.univie.ac.at/spextra/database/libraries/
