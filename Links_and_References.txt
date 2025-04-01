@@ -3,7 +3,7 @@ List of Useful link and website used for references and database:
 ESO ETC general page:
 https://www.eso.org/observing/etc/
 
-ESO ETC general page:
+ESO SkyCalc general page:
 https://www.eso.org/observing/etc/bin/gen/form?INS.MODE=swspectr+INS.NAME=SKYCALC
 
 ESO ETC Broadband Magnitude Calculations
