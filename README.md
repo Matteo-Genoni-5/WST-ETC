@@ -27,5 +27,6 @@ evolution of the original pyetc package, below a list of updates:
 - ESO_original_spectra/ -> folder with the ESO SED templates
 - Band_Filters/ -> transmission curves with the UBVRI - SDSS ugriz - LSST ugriz
 - Modified <get_seeing_fwhm> in order to return both atmospheric+telescope IQ with atmospheric+telescope+instrument IQ
+  Also added (courtesy of Schiappacasse J.) handling of fiber-injection losses from ESPRESSO (Schimdt+24)
   
 
