@@ -20,7 +20,7 @@ The folder is organized as follow:
 
 In developement:
 
-* * * pyetc2 * * *  
+_____ pyetc2 _____
 evolution of the original pyetc package, below a list of updates:
 
 - SPcalib.ipynb -> Classes in a standalone .py module specalib.py for filter/magnitude spectral calibration and SED generation
@@ -29,10 +29,10 @@ evolution of the original pyetc package, below a list of updates:
 - Modified <get_seeing_fwhm> in order to return both atmospheric+telescope IQ with atmospheric+telescope+instrument IQ  
   Also added (courtesy of Schiappacasse J.) handling of fiber-injection losses from ESPRESSO (Schimdt+24)
   
-* * * pyetc2_tests.ipynb -> Test notebook with several new methods and functions that will end up in the main etc.py of the pyetc2 module, mainly:
-(1) definition of a full dictionary for observations - sky - image - spectrum, basically a wrapper for the built-in methods of pyetc
-(2) new functions for spectrum generation given templates, lines, black body and powerlaws
-(3) ESOSkycalc call for dynamical sky cofiguration generations  
+(9) pyetc2_tests.ipynb -> Test notebook with several new methods and functions that will end up in the main etc.py of the pyetc2 module, mainly:
+- 1) definition of a full dictionary for observations - sky - image - spectrum, basically a wrapper for the built-in methods of pyetc
+- 2) new functions for spectrum generation given templates, lines, black body and powerlaws
+- 3) ESOSkycalc call for dynamical sky cofiguration generations  
 
 - In the main code added a keyword in the obs dictionary -> "skycalc", if this is set to true the sky configuration is computed dinamically, if not is taken locally as usual (using the MOON parameter)
 
